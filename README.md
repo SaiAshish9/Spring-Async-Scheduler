@@ -21,3 +21,19 @@ In Fixed Rate , method is going to be executed after the defined time without an
 <img width="1103" alt="Screenshot 2023-01-04 at 1 46 50 AM" src="https://user-images.githubusercontent.com/43849911/210434511-0150e0d1-1911-4d2a-9e30-c434f25e5409.png">
 
 <img width="816" alt="Screenshot 2023-01-04 at 1 56 53 AM" src="https://user-images.githubusercontent.com/43849911/210435937-97f4b56b-b152-422e-ad82-50a1c1a1a6b0.png">
+
+```
+for larger rates
+executed after every 2 hours PT02H ( PT02S )
+```
+
+<img width="780" alt="Screenshot 2023-01-04 at 2 02 13 AM" src="https://user-images.githubusercontent.com/43849911/210436690-0e851594-62be-41aa-bfbb-67f85e369ba9.png">
+
+```
+For parallel execution we need to use @Async Annotation
+```
+
+<img width="771" alt="Screenshot 2023-01-04 at 2 04 19 AM" src="https://user-images.githubusercontent.com/43849911/210437028-2db6b657-271b-4e8d-a9de-c0374ff83625.png">
+
+<img width="1137" alt="Screenshot 2023-01-04 at 2 05 06 AM" src="https://user-images.githubusercontent.com/43849911/210437123-add51be7-410a-4664-a8f1-8ecf91cf0fa1.png">
+
