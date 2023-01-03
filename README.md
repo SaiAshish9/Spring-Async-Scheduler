@@ -3,5 +3,5 @@
 ```
 Fixed Delay parameter at @Scheduled annotation will add a delay between two executions or methods.
 
-One Method needs to wait for previous method execution to be completed
+One Method needs to wait for previous one's execution to be completed
 ```
