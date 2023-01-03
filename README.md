@@ -37,3 +37,11 @@ For parallel execution we need to use @Async Annotation
 
 <img width="1137" alt="Screenshot 2023-01-04 at 2 05 06 AM" src="https://user-images.githubusercontent.com/43849911/210437123-add51be7-410a-4664-a8f1-8ecf91cf0fa1.png">
 
+```
+we can add the schedulers via cron expression
+```
+
+<img width="612" alt="Screenshot 2023-01-04 at 2 40 19 AM" src="https://user-images.githubusercontent.com/43849911/210441981-fe86f847-6840-45e7-bc6c-590c3045e4c6.png">
+
+<img width="723" alt="Screenshot 2023-01-04 at 2 41 21 AM" src="https://user-images.githubusercontent.com/43849911/210442108-376d5479-edcb-4c31-aa8b-2b7041ab0540.png">
+
