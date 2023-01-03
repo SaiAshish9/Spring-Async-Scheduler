@@ -15,3 +15,7 @@ In Fixed Rate , method is going to be executed after the defined time without an
 <img width="714" alt="Screenshot 2023-01-04 at 1 20 25 AM" src="https://user-images.githubusercontent.com/43849911/210430755-81767d08-419f-4ba7-ba81-763b479932d3.png">
 
 <img width="999" alt="Screenshot 2023-01-04 at 1 20 49 AM" src="https://user-images.githubusercontent.com/43849911/210430807-ed931fcf-0d14-4bff-ae98-887c9a01d676.png">
+
+<img width="783" alt="Screenshot 2023-01-04 at 1 46 14 AM" src="https://user-images.githubusercontent.com/43849911/210434462-50550690-a209-4f2d-b20d-476b170c0dd2.png">
+
+<img width="1103" alt="Screenshot 2023-01-04 at 1 46 50 AM" src="https://user-images.githubusercontent.com/43849911/210434511-0150e0d1-1911-4d2a-9e30-c434f25e5409.png">
