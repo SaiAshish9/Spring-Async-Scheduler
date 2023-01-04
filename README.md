@@ -52,3 +52,9 @@ we can add the schedulers via cron expression
 ```
 We can run tasks parallel via @Async annotation and Task Scheduler
 ```
+
+<img width="785" alt="Screenshot 2023-01-04 at 11 32 33 PM" src="https://user-images.githubusercontent.com/43849911/210620117-a2aa7c96-0ad6-4fff-9394-d98451515a39.png">
+
+<img width="565" alt="Screenshot 2023-01-04 at 11 32 55 PM" src="https://user-images.githubusercontent.com/43849911/210620185-665916d3-c1f8-48a2-b19b-3e6d199297d7.png">
+
+<img width="590" alt="Screenshot 2023-01-04 at 11 33 17 PM" src="https://user-images.githubusercontent.com/43849911/210620248-7be8633e-d466-4c8d-a382-e8b5e2a680ff.png">
